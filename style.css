@@ -1,0 +1,40 @@
+.nature{
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: 2%;
+    width: 30%;
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 5px;
+}
+#beauty{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,orange,green);
+    border-image-slice: 1;
+}
+#net{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,red,yellow);
+    border-image-slice: 1;
+}
+.move{
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: 5px 10px;
+    width: 30%;
+}
+.cut{
+    box-shadow: 5px 10px 40px orange;
+    border-radius: 10px;
+} 
+#friend{  
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,red,skyblue);
+    border-image-slice: 1;
+}
+#inter{
+    border-right: 10px solid;
+    border-image:linear-gradient(180deg,orangered,yellow);
+    border-image-slice: 1;
+}
